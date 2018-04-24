@@ -1,5 +1,5 @@
 # k8s-security-on-azure
-Kubernetes Security Best Practices on Azure
+Kubernetes Security Best Practices on Azure. Part of a hackathon project, currently WIP.
 
 # License
 This project is licensed under the MIT license. See the included LICENSE file for details.
