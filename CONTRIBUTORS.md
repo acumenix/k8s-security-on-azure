@@ -22,3 +22,14 @@ Model each section to include the following materials:
 1. Context (what are we trying to do? What is the threat we are modeling?)
 2. Current state (what is best option today, any limitations)
 3. Future state (roadmap and ideal scenario)
+
+After research, place the content below into a new .md file in the 'docs' folder of the repo:
+```
+## Title
+### Context
+...
+### Current State
+...
+### Going Forward
+...
+```
