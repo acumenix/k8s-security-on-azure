@@ -1,6 +1,14 @@
 # k8s-security-on-azure
 Kubernetes Security Best Practices on Azure. Part of a hackathon project, currently WIP.
 
+Contents:
+* [General](General.md)
+* [Auditing Policy](AuditingPolicy.md)
+* [Content Trust](BuildChainTrust.md)
+* [Kubernetes KMS](kuberneteskms.md)
+* [Security Bench](SecurityBench.md)
+* [Vulnerability Scanners](VulnScanner.md)
+
 # License
 This project is licensed under the MIT license. See the included LICENSE file for details.
 
