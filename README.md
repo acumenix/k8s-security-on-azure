@@ -1,6 +1,8 @@
 # k8s-security-on-azure
 Kubernetes Security Best Practices on Azure. Part of a hackathon project, currently WIP.
 
+This documentation targets a Kubernetes 1.10 deployment created by acs-engine 0.16 on Ubuntu Xenial.
+
 Contents:
 * [General](docs/General.md)
 * [Auditing Policy](docs/AuditingPolicy.md)
