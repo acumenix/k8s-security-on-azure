@@ -17,6 +17,7 @@ There is no plan to add support for ADE before v1.11 based on the comments in [i
 SSE is supported natively with the default behavior of managed disks. There is no support for the use of custom keys to do SSE encryption.
 
 ### Going Forward
-TODO: add support for SSE with custom keys
+TODO: add support for SSE with custom keys implementing and automating the following scenario: [https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption-customer-managed-keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption-customer-managed-keys)
+
 
 ...
